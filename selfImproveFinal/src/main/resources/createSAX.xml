@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<bookstore>
+		<book1 id="1">
+			<name>book1</name>
+			<author>魏德亮</author>
+			<year>2014</year>
+			<price>89</price>
+		</book1>
+		<book2 id="2">
+			<name>book2</name>
+			<author>2004</author>
+			<year>77</year>
+			<price>English</price>
+		</book2>
+	</bookstore>
